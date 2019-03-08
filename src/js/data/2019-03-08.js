@@ -54,7 +54,7 @@ dataSet[dataSetVersion].options = [
       { name: "GBF Battlouge", tooltip: "fun", key: "battlouge" },
       { name: "GBF Amazing", tooltip: "amazing?", key: "amazing" },
       { name: "GBF Honoo Try", tooltip: "Fire", key: "honoo" },
-      { name: "Gundam Build Divers", tooltip: "Momokapool", key: "divers" },
+      { name: "Gundam Build Divers", tooltip: "Momokapool", key: "divers" }
     ]
   },
   {
@@ -64,8 +64,7 @@ dataSet[dataSetVersion].options = [
     checked: false,
     sub: [ { name: "Universal Century", tooltip: "OG timeline", key: "uc" }, { name: "Future Century", tooltip: "G Gundam", key: "fc" }, { name: "After Colony", tooltip: "Wing", key: "ac" }, { name: "After War", tooltip: "Gundam X", key: "aw" }, { name: "Cosmic Era", tooltip: "SEED", key: "ce" }, { name: "Anno Domini", tooltip: "00 series", key: "ad" }, { name: "Reguild Century", tooltip: "G-Reco", key: "reguild" }, { name: "Post Disaster", tooltip: "IBO", key: "pd" }, { name: "Build Series", key: "bs" }
     ]
-  },
-
+  }
 ];
 
 dataSet[dataSetVersion].characterData = [
